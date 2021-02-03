@@ -4,6 +4,7 @@ public class Task001 {
     public static void main(String[] args) {
         System.out.println("This is first group project for GitHub");
         // don't worry! ahmet is here
-        // let's get on the spaceship :)
+        // let's get on the spaceship 
+        //:)Smile is everywhere
     }
 }
